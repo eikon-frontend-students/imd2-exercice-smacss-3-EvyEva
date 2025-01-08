@@ -11,4 +11,18 @@ a {
 img,
 video {
   display: block;
+  width: 350px;
+}
+
+body {
+  font-family: "Raleway";
+  font-size: 16px;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 40px;
+  font-weight: 700;
 }
