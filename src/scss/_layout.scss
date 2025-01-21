@@ -1,4 +1,4 @@
-.l_section-title-green {
+.l-section-title-green {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -7,7 +7,7 @@
   height: 40px;
 }
 
-.l_section-title-blue {
+.l-section-title-blue {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -17,8 +17,8 @@
 }
 
 .l-article-background {
-  background-image: url(../images/pattern.png);
   width: 100vw;
+  padding-bottom: 90px;
 }
 
 .l-orange {
@@ -26,4 +26,10 @@
   height: 10px;
   flex-shrink: 0;
   background: #ffb500;
+  margin-bottom: 35px;
+}
+
+.l-background-footer {
+  background: white;
+  padding-bottom: 90px;
 }

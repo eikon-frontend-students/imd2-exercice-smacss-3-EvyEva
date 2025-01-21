@@ -11,12 +11,14 @@ a {
 img,
 video {
   display: block;
-  max-width: 100%;
+  width: 100%;
 }
 
 body {
   font-family: "Raleway";
   font-size: 16px;
+
+  background-image: url(../images/pattern.png);
 }
 
 h1 {
